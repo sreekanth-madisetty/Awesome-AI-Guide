@@ -1,7 +1,7 @@
 # Awesome-AI-Guide
 The  AI Guide is your one-stop hub for everything Artificial Intelligence! Discover a meticulously curated collection of resources, tutorials, code samples, and tools covering Machine Learning, Deep Learning, Generative AI, Data Science, and beyond.
 
-<img src="https://github.com/sreekanth-madisetty/Awesome-AI-Guide/blob/main/figures/banner_github.png" alt="Alt Text" width="300" height="150" class="center">
+<img src="https://github.com/sreekanth-madisetty/Awesome-AI-Guide/blob/main/figures/banner_github.png" alt="Alt Text" width="750" height="500" class="center">
 
 
 
@@ -12,4 +12,5 @@ The  AI Guide is your one-stop hub for everything Artificial Intelligence! Disco
 | 3     | ML from scratch by **DorsaRoh**  | Machine Learning from scratch   | [Github](https://github.com/DorsaRoh/Machine-Learning) |
 | 4     | Docker Crash Course for Absolute Beginners by **TechWorld with Nana** | Good starting point to learn Docker  | [Youtube](https://www.youtube.com/watch?v=pg19Z8LL06w) |
 | 5     | Complete Data Science with Machine Learning and NLP 2024 by **Krish Naik** | Handwritten notes of ML, DL, NLP | [Github](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024)|
+| 6     | Deep Learning Course by **Professor Bryce** | Good collection of deep learning concepts by Prof. Bryce| [Youtube](https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=1) |
 
